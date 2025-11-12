@@ -1,4 +1,4 @@
-## Oiii, eu sou Nicolau! 👋 🤖
+## Oiii, eu sou o Nicolau! 👋 🤖
 
 
 - 🔭 Estou trabalhando com front-end.
